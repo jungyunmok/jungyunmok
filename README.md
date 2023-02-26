@@ -9,7 +9,7 @@
         <a href="mailto:jungyunmok@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jungyunmok@gmail.com"/></a>
       </td>
       <td>
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungyunmok&hide=css,html&langs_count=2&layout=compact">
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungyunmok&layout=compact">
       </td>
     </tr>
     <tr>
