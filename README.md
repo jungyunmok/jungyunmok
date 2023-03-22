@@ -4,7 +4,7 @@
       <td>
         <h3>👾 Introduction 👾</h3>
         🌱 I’m currently learning ...<br/><br/>
-        <a href="https://hits.seeyoufarm.com" target="_blank"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F77EJ77%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+        <a href="https://hits.seeyoufarm.com" target="_blank"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjungyunmok%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
         <a href="https://luppang.tistory.com"><img src="http://img.shields.io/badge/-Blog-655ced?style=flat&logo=Tistory&link=https://luppang.tistory.com"/></a>
         <a href="mailto:jungyunmok@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jungyunmok@gmail.com"/></a>
       </td>
