@@ -24,9 +24,9 @@
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
         <br>
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
-        <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white">
         <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
         <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
+        <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white">
         <br>
         <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
