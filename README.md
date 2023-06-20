@@ -14,7 +14,7 @@
     </tr>
     <tr>
       <td>
-         <img src="https://github-readme-stats.vercel.app/api?username=jungyunmok&show_icons=true">
+         <img src="https://github-readme-stats.vercel.app/api?username=jungyunmok&show_icons=true&rank_icon=github">
       </td>
       <td>
         <h3>💻 Tech Stack 💻</h3>
